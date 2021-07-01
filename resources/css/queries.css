@@ -22,6 +22,12 @@
         margin-left: 10%;
     }
 
+    .steps-box:first-child img 
+    {
+        height: 300px;
+        width: auto;
+    }
+
     .steps-box { margin-top: 10px; }
     .steps-box:last-child { margin-top: 10px; }
     .works-step { margin-bottom: 40px; }
@@ -96,6 +102,12 @@
 
     .app-screen { width: 40%; }
     .steps-box:first-child { text-align: center; }
+
+    .steps-box:first-child img 
+    {
+        height: 200px;
+        width: auto;
+    }
 
     .works-step div
     {
